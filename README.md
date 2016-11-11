@@ -1,4 +1,25 @@
+
+*******************************************************************************************
+
+
 # SimpleRedditApp
+
+It is a simple reddit app that allows us to add title and links to the article and displays the article grid.
+
+
+
+********************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.14.
 
